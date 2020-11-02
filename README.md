@@ -22,7 +22,7 @@ https://upskill.pt/
 | Aula 10    | Implements e Comparadores                          |![ /\ ](/Aulas/Aulas%200010/src/)   |
 | Aula 11    | Java Collections Framework                         |![ /\ ](/Aulas/Aulas%200011/src/)   |
 | Aula 12    | Enumerados e Exceções                              |![ /\ ](/Aulas/Aulas%200012/src/)   |
-| Aula 13-14 | Mini-teste / Leitura e Escrita de Ficheiros        ||
+| Aula 13-14 | Mini-teste / Leitura e Escrita de Ficheiros        |![ /\ ](/Aulas/Aulas%20013_014/src/)|
 | Aula 15-19 | Projecto                                           ||
 
 

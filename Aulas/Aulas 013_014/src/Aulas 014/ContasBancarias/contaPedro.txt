@@ -1,0 +1,8 @@
+Pedro:253
+1;jantar;15.0
+2;jantar;15.0
+3;presente;20.0
+4;jantar;15.0
+5;presente;20.0
+6;jantar;15.0
+7;presente;20.0

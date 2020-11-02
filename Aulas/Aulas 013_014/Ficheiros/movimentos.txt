@@ -1,0 +1,9 @@
+1;Almoço;12.0
+2;Lanche;5.0
+3;Jantar;20.0
+4;Almoço;12.0
+5;Lanche;5.0
+6;Jantar;20.0
+7;Almoço;12.0
+8;Lanche;5.0
+9;Jantar;20.0

@@ -1,0 +1,2 @@
+Lampada{potencia=1}
+Lampada{potencia=2}

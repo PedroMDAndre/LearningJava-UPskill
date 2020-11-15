@@ -13,7 +13,7 @@ public class Rectangle {
     }
 
     public Rectangle(double height) {
-        // or this.(height, height)
+        // or this(height, height)
         this.height = height;
         this.width = height;
     }
